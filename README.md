@@ -19,4 +19,4 @@ You'll need to install the following packages to run the codes.
 ## Tutorial
 First, download the example data from [151672](https://drive.google.com/drive/folders/1K2SW7vnc2ybUeVSbvqm4JGnkWo2wfFxM?usp=drive_link), and put it in Data/spatialLIBD/.
 For the step-by-step tutorial, please refer to 
-[tutorial](https://github.com/ChyaZhang/HAST/blob/main/tutorial.ipynb)
+[tutorial](https://github.com/ChyaZhang/HAST/blob/main/tutorial.ipynb).
