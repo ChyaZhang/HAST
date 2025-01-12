@@ -18,3 +18,4 @@ You'll need to install the following packages in order to run the codes.
 
 ## Tutorial
 For the step-by-step tutorial, please refer to 
+[https://github.com/ChyaZhang/HAST/blob/main/tutorial.ipynb]
