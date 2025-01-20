@@ -1,5 +1,7 @@
 # Multi-View Hypergraph Association Spatial Transcriptomic Domain Identification via Self-Supervised Contrastive Learning
 
+![](https://github.com/ChyaZhang/HAST/blob/main/HAST.png)
+
 ## Requirements
 You'll need to install the following packages to run the codes.
 * python==3.8
